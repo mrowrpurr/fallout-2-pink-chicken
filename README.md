@@ -1,2 +1,5 @@
-# fallout-2-pink-chicken
-Standalone pink chicken 🐤
+# Fallout 2 :: Pink Chicken
+
+> Standalone pink chicken 🐤
+
+![Pink Chicken](images/screenshot.png)
